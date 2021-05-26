@@ -15,7 +15,7 @@
     "babel-register": "6.26.0",
     "clipboard": "1.7.1",
     "cookie": "0.3.1",
-    "cssnano": "^4.1.10",
+    "cssnano": "^5.0.0",
     "date-fns": "^1.29.0",
     "debounce": "^1.1.0",
     "del": "3.0.0",
