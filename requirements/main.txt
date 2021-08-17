@@ -31,7 +31,7 @@ attrs==19.1.0 \
 automat==0.7.0 \
     --hash=sha256:cbd78b83fa2d81fe2a4d23d258e1661dd7493c9a50ee2f1a5b2cac61c1793b0e \
     --hash=sha256:fdccab66b68498af9ecfa1fa43693abe546014dd25cf28543cbe9d1334916a58
-babel==2.7.0 \
+babel==2.9.1 \
     --hash=sha256:af92e6106cb7c55286b25b38ad7695f8b4efb36a90ba483d7f7a6628c46158ab \
     --hash=sha256:e86135ae101e31e2c8ec20a4e0c5220f4eed12487d5cf3f78be7e98d3a57fc28
 bcrypt==3.1.6 \
@@ -56,7 +56,7 @@ bcrypt==3.1.6 \
     --hash=sha256:ede2a87333d24f55a4a7338a6ccdccf3eaa9bed081d1737e0db4dbd1a4f7e6b6
 billiard==3.6.0.0 \
     --hash=sha256:756bf323f250db8bf88462cd042c992ba60d8f5e07fc5636c24ba7d6f4261d84
-bleach==3.1.0 \
+bleach==3.3.0 \
     --hash=sha256:213336e49e102af26d9cde77dd2d0397afabc5a6bf2fed985dc35b5d1e285a16 \
     --hash=sha256:3fdf7f77adcf649c9911387df51254b813185e32b2c6619f690b593a617e19fa
 boto3==1.9.161 \
@@ -248,7 +248,7 @@ idna==2.8 \
 itsdangerous==1.1.0 \
     --hash=sha256:321b033d07f2a4136d3ec762eac9f16a10ccd60f53c0c91af90217ace7ba1f19 \
     --hash=sha256:b12271b2047cb23eeb98c8b5622e2e5c5e9abd9784a153e9d8ef9cb4dd09d749
-jinja2==2.10.1 \
+jinja2==2.11.3 \
     --hash=sha256:065c4f02ebe7f7cf559e49ee5a95fb800a9e4528727aec6f24402a5374c65013 \
     --hash=sha256:14dd6caf1527abb21f08f86c784eac40853ba93edb79552aa1e4b8aef1b61c7b
 jmespath==0.9.4 \
@@ -260,7 +260,7 @@ kombu==4.6.0 \
 limits==1.3 \
     --hash=sha256:9df578f4161017d79f5188609f1d65f6b639f8aad2914c3960c9252e56a0ff95 \
     --hash=sha256:a017b8d9e9da6761f4574642149c337f8f540d4edfe573fb91ad2c4001a2bc76
-lxml==4.3.3 \
+lxml==4.6.2 \
     --hash=sha256:03984196d00670b2ab14ae0ea83d5cc0cfa4f5a42558afa9ab5fa745995328f5 \
     --hash=sha256:0815b0c9f897468de6a386dc15917a0becf48cc92425613aa8bbfc7f0f82951f \
     --hash=sha256:175f3825f075cf02d15099eb52658457cf0ff103dcf11512b5d2583e1d40f58b \
@@ -346,7 +346,7 @@ paginate-sqlalchemy==0.3.0 \
     --hash=sha256:88d46abdab3de93d1993b83e27388a16353f93c6d991e7d6aa5eac1adeca7f93
 paginate==0.5.6 \
     --hash=sha256:5e6007b6a9398177a7e1648d04fdd9f8c9766a1a945bceac82f1929e8c78af2d
-passlib==1.7.1 \
+passlib==1.7.3 \
     --hash=sha256:3d948f64138c25633613f303bcc471126eae67c04d5e3f6b7b8ce6242f8653e0 \
     --hash=sha256:43526aea08fa32c6b6dbbbe9963c4c767285b78147b7437597f992812f69d280
 pastedeploy==2.0.1 \
@@ -436,7 +436,7 @@ pycurl==7.43.0.2 \
     --hash=sha256:df6f42787c39304522a00ecaa0a7fac5daffd0aa89044c68fc9fd5d683dd2ed5 \
     --hash=sha256:eccea049aef47decc380746b3ff242d95636d578c907d0eab3b00918292d6c48 \
     --hash=sha256:fe12f59e7bc6c217f12c6726c2617238fd4c0d53b28db956de592252da4e5bb0
-pygments==2.4.2 \
+pygments==2.7.4 \
     --hash=sha256:71e430bc85c88a430f000ac1d9b331d2407f681d6f6aec95e8bcfbc3df5b0127 \
     --hash=sha256:881c4c157e45f30af185c1ffe8d549d48ac9127433f2c380c24b84572ad66297
 pyOpenSSL==19.0.0 \
@@ -500,7 +500,7 @@ requests==2.22.0 \
 rfc3986==1.3.2 \
     --hash=sha256:0344d0bd428126ce554e7ca2b61787b6a28d2bbd19fc70ed2dd85efe31176405 \
     --hash=sha256:df4eba676077cefb86450c8f60121b9ae04b94f65f85b69f3f731af0516b7b18
-rsa==4.0 \
+rsa==4.7 \
     --hash=sha256:14ba45700ff1ec9eeb206a2ce76b32814958a98e372006c8fb76ba820211be66 \
     --hash=sha256:1a836406405730121ae9823e19c6e806c62bbad73f890574fff50efa4122c487
 s3transfer==0.2.1 \
@@ -531,7 +531,7 @@ translationstring==1.3 \
 typeguard==2.3.1 \
     --hash=sha256:7f7722c086569805a05c5e2f3bbbb5cd0c9c85218a080dc62864834660962302 \
     --hash=sha256:9d475bce701a5fd4d0039ec8499d7ea5d8a7f51262bfd3e547ffefd7bb821d30
-urllib3==1.25.3 \
+urllib3==1.25.9 \
     --hash=sha256:b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1 \
     --hash=sha256:dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232
 venusian==1.2.0 \
