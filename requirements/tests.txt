@@ -88,7 +88,7 @@ port-for==0.4 \
 pretend==1.0.9 \
     --hash=sha256:c90eb810cde8ebb06dafcb8796f9a95228ce796531bc806e794c2f4649aa1b10 \
     --hash=sha256:e389b12b7073604be67845dbe32bf8297360ad9a609b24846fe15d86e0b7dc01
-psutil==5.6.2 \
+psutil==5.6.7 \
     --hash=sha256:206eb909aa8878101d0eca07f4b31889c748f34ed6820a12eb3168c7aa17478e \
     --hash=sha256:649f7ffc02114dced8fbd08afcd021af75f5f5b2311bc0e69e53e8f100fe296f \
     --hash=sha256:6ebf2b9c996bb8c7198b385bade468ac8068ad8b78c54a58ff288cd5f61992c7 \
@@ -136,7 +136,7 @@ soupsieve==1.9.1 \
 text-unidecode==1.2 \
     --hash=sha256:5a1375bb2ba7968740508ae38d92e1f889a0832913cb1c447d5e2046061a396d \
     --hash=sha256:801e38bd550b943563660a91de8d4b6fa5df60a542be9093f7abf819f86050cc
-urllib3==1.25.3 \
+urllib3==1.26.5 \
     --hash=sha256:b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1 \
     --hash=sha256:dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232
 waitress==1.3.0 \
