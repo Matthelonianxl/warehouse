@@ -56,7 +56,7 @@ bcrypt==3.1.6 \
     --hash=sha256:ede2a87333d24f55a4a7338a6ccdccf3eaa9bed081d1737e0db4dbd1a4f7e6b6
 billiard==3.6.0.0 \
     --hash=sha256:756bf323f250db8bf88462cd042c992ba60d8f5e07fc5636c24ba7d6f4261d84
-bleach==3.1.0 \
+bleach==3.3.0 \
     --hash=sha256:213336e49e102af26d9cde77dd2d0397afabc5a6bf2fed985dc35b5d1e285a16 \
     --hash=sha256:3fdf7f77adcf649c9911387df51254b813185e32b2c6619f690b593a617e19fa
 boto3==1.9.161 \
@@ -531,7 +531,7 @@ translationstring==1.3 \
 typeguard==2.3.1 \
     --hash=sha256:7f7722c086569805a05c5e2f3bbbb5cd0c9c85218a080dc62864834660962302 \
     --hash=sha256:9d475bce701a5fd4d0039ec8499d7ea5d8a7f51262bfd3e547ffefd7bb821d30
-urllib3==1.25.3 \
+urllib3==1.26.5 \
     --hash=sha256:b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1 \
     --hash=sha256:dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232
 venusian==1.2.0 \
