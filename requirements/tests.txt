@@ -88,7 +88,7 @@ port-for==0.4 \
 pretend==1.0.9 \
     --hash=sha256:c90eb810cde8ebb06dafcb8796f9a95228ce796531bc806e794c2f4649aa1b10 \
     --hash=sha256:e389b12b7073604be67845dbe32bf8297360ad9a609b24846fe15d86e0b7dc01
-psutil==5.6.2 \
+psutil==5.6.7 \
     --hash=sha256:206eb909aa8878101d0eca07f4b31889c748f34ed6820a12eb3168c7aa17478e \
     --hash=sha256:649f7ffc02114dced8fbd08afcd021af75f5f5b2311bc0e69e53e8f100fe296f \
     --hash=sha256:6ebf2b9c996bb8c7198b385bade468ac8068ad8b78c54a58ff288cd5f61992c7 \
