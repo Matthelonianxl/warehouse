@@ -143,7 +143,7 @@ cmarkgfm==0.4.2 \
     --hash=sha256:e25f53c37e319241b9a412382140dffac98ca756ba8f360ac7ab5e30cad9670a \
     --hash=sha256:e8932bddf159064f04e946fbb64693753488de21586f20e840b3be51745c8c09 \
     --hash=sha256:f20900f16377f2109783ae9348d34bc80530808439591c3d3df73d5c7ef1a00c
-cryptography==2.7 \
+cryptography==3.2 \
     --hash=sha256:24b61e5fcb506424d3ec4e18bca995833839bf13c59fc43e530e488f28d46b8c \
     --hash=sha256:25dd1581a183e9e7a806fe0543f485103232f940fcfc301db65e630512cce643 \
     --hash=sha256:3452bba7c21c69f2df772762be0066c7ed5dc65df494a1d53a58b683a83e1216 \
@@ -596,6 +596,6 @@ zxcvbn==4.4.28 \
     --hash=sha256:151bd816817e645e9064c354b13544f85137ea3320ca3be1fb6873ea75ef7dc1
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==41.0.1 \
+setuptools==65.5.1 \
     --hash=sha256:a222d126f5471598053c9a77f4b5d4f26eaa1f150ad6e01dcf1a42e185d05613 \
     --hash=sha256:c7769ce668c7a333d84e17fe8b524b1c45e7ee9f7908ad0a73e1eda7e6a5aebf
