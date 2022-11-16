@@ -56,7 +56,7 @@ bcrypt==3.1.6 \
     --hash=sha256:ede2a87333d24f55a4a7338a6ccdccf3eaa9bed081d1737e0db4dbd1a4f7e6b6
 billiard==3.6.0.0 \
     --hash=sha256:756bf323f250db8bf88462cd042c992ba60d8f5e07fc5636c24ba7d6f4261d84
-bleach==3.1.0 \
+bleach==3.3.0 \
     --hash=sha256:213336e49e102af26d9cde77dd2d0397afabc5a6bf2fed985dc35b5d1e285a16 \
     --hash=sha256:3fdf7f77adcf649c9911387df51254b813185e32b2c6619f690b593a617e19fa
 boto3==1.9.161 \
@@ -436,7 +436,7 @@ pycurl==7.43.0.2 \
     --hash=sha256:df6f42787c39304522a00ecaa0a7fac5daffd0aa89044c68fc9fd5d683dd2ed5 \
     --hash=sha256:eccea049aef47decc380746b3ff242d95636d578c907d0eab3b00918292d6c48 \
     --hash=sha256:fe12f59e7bc6c217f12c6726c2617238fd4c0d53b28db956de592252da4e5bb0
-pygments==2.4.2 \
+pygments==2.7.4 \
     --hash=sha256:71e430bc85c88a430f000ac1d9b331d2407f681d6f6aec95e8bcfbc3df5b0127 \
     --hash=sha256:881c4c157e45f30af185c1ffe8d549d48ac9127433f2c380c24b84572ad66297
 pyOpenSSL==19.0.0 \
@@ -596,6 +596,6 @@ zxcvbn==4.4.28 \
     --hash=sha256:151bd816817e645e9064c354b13544f85137ea3320ca3be1fb6873ea75ef7dc1
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==41.0.1 \
+setuptools==65.5.1 \
     --hash=sha256:a222d126f5471598053c9a77f4b5d4f26eaa1f150ad6e01dcf1a42e185d05613 \
     --hash=sha256:c7769ce668c7a333d84e17fe8b524b1c45e7ee9f7908ad0a73e1eda7e6a5aebf
