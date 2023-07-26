@@ -11,7 +11,7 @@ beautifulsoup4==4.7.1 \
 bok-choy==1.0.0 \
     --hash=sha256:7f4d2f5c95ac96bf67ca41930a1f77086fd657c7c2a80d45707c2b519bee6f97 \
     --hash=sha256:cfe67a718dab9ec7fdc03d46cc85917c476d2cdc537cd8525fec40a14dfd5fd2
-certifi==2019.3.9 \
+certifi==2023.7.22 \
     --hash=sha256:59b7658e26ca9c7339e00f8f4636cdfe59d34fa37b9b04f6f9e9926b3cece1a5 \
     --hash=sha256:b26104d6835d1f5e49452a26eb2ff87fe7090b89dfcaee5ea2212697e1e1d7ae
 chardet==3.0.4 \
