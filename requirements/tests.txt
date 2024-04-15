@@ -61,7 +61,7 @@ fakeredis==1.0.3 \
 freezegun==0.3.12 \
     --hash=sha256:2a4d9c8cd3c04a201e20c313caf8b6338f1cfa4cda43f46a94cc4a9fd13ea5e7 \
     --hash=sha256:edfdf5bc6040969e6ed2e36eafe277963bdc8b7c01daeda96c5c8594576c9390
-idna==2.8 \
+idna==3.7 \
     --hash=sha256:c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407 \
     --hash=sha256:ea8b7f6188e6fa117537c3df7da9fc686d485087abf6ac197f9c46432f7e4a3c
 importlib-metadata==0.17 \
