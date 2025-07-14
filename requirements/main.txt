@@ -361,7 +361,7 @@ plaster==1.0 \
 premailer==3.4.1 \
     --hash=sha256:06f227702bd76a82da851f45af4c0831abfdf6555134faa8ffb1ea10e118f834 \
     --hash=sha256:e8ad94c32dc1b3f1fe21f6bf9912ec10149e99106d097463ac6955fb49f84668
-protobuf==3.8.0 \
+protobuf==4.25.8 \
     --hash=sha256:03f43eac9d5b651f976e91cf46a25b75e5779d98f0f4114b0abfed83376d75f8 \
     --hash=sha256:0c94b21e6de01362f91a86b372555d22a60b59708599ca9d5032ae9fdf8e3538 \
     --hash=sha256:2d2a9f30f61f4063fadd7fb68a2510a6939b43c0d6ceeec5c4704f22225da28e \
@@ -531,7 +531,7 @@ translationstring==1.3 \
 typeguard==2.3.1 \
     --hash=sha256:7f7722c086569805a05c5e2f3bbbb5cd0c9c85218a080dc62864834660962302 \
     --hash=sha256:9d475bce701a5fd4d0039ec8499d7ea5d8a7f51262bfd3e547ffefd7bb821d30
-urllib3==1.25.3 \
+urllib3==2.5.0 \
     --hash=sha256:b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1 \
     --hash=sha256:dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232
 venusian==1.2.0 \
